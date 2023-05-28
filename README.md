@@ -9,5 +9,16 @@ duties:
 • Using suitable models for short-term and long-term predictions of fraud or harassment in relation to these cases at the country level.
 
 
-Additional details:
-This is a React JS code to help you perform fraud detection and harassment tasks using the ChatGPT api.😊
+more details:
+
+This is a React JS code that helps you detect fraud and harassment using the ChatGPT api. 😊
+
+
+To get started, you need to create a new ReactJS project and add the ChatGPT api to it. You can use the following commands for this:
+npx Create-React-app Fraud-detection
+Fraud detection CD
+Install npm chatgpt
+
+
+Next, you need to create a JavaScript file called App.js and define a React component in it that implements its tasks.
+The following code:
