@@ -1,5 +1,5 @@
 # Preventing_fraud_using-the_ChatGPT_api
-Preventing fraud using the ChatGPT api version 1.0
+Preventing fraud using the ChatGPT api version X.X
 All rights DMCA of this idea and coding are reserved for Ahmed Bayati
 duties:
 • Collection of information and rules related to fraud or harassment
